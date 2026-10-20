@@ -1,43 +1,64 @@
 <div align="center">
 
-# hey, im mag 👋
+╭──────────────────────────────╮
+│ M a g G o T z Y T │
+╰──────────────────────────────╯
 
-*arch linux, shell scripts, and breaking things until they work*
 
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+*arch linux · shell scripts · making terminals look good*
+
+![arch](https://img.shields.io/badge/arch-89b4fa?style=flat-square&logo=arch-linux&logoColor=1e1e2e)
+![fish](https://img.shields.io/badge/fish-a6e3a1?style=flat-square&logo=gnubash&logoColor=1e1e2e)
+![amd](https://img.shields.io/badge/amd-f38ba8?style=flat-square&logo=amd&logoColor=1e1e2e)
+![alacritty](https://img.shields.io/badge/alacritty-f9e2af?style=flat-square&logo=alacritty&logoColor=1e1e2e)
+![catppuccin](https://img.shields.io/badge/catppuccin-cba6f7?style=flat-square)
 
 </div>
 
----
+<br>
 
-## 🛠️ what i mess about with
+mag@arch
+────────
+os ➜ arch linux
+gpu ➜ rx 6800 xt
+shell ➜ fish
+terminal ➜ alacritty
+theme ➜ catppuccin mocha
+location ➜ united kingdom
+status ➜ tinkering
 
-- 🐧 arch install scripts
-- 🖥️ vfio / gpu passthrough
-- 🌐 websites
-- 🎮 getting games running on linux
 
-## 📌 my stuff
+<br>
 
-| repo | what it is |
-|---|---|
-| [arch](https://github.com/MagGoTzYT/arch) | my arch install scripts (still testing) |
-| [VFIO-ARCH](https://github.com/MagGoTzYT/VFIO-ARCH) | my vfio script |
-| [dotfiles](https://github.com/MagGoTzYT/dotfiles) | my terminal and gaming setup |
-| [Harvey-s-Tech-Repairs](https://github.com/MagGoTzYT/Harvey-s-Tech-Repairs) | my webpages |
+### ✦ about
 
-## 💻 my setup
+i like computers that feel like *mine*. i spend a lot of time on arch, getting games running, writing shell scripts and rebuilding my setup until it's clean enough that i can wipe it and get it all back in minutes.
 
-- **os:** arch linux
-- **gpu:** rx 6800 xt
-- **terminal:** alacritty + fish
-- **theme:** catppuccin mocha
+most of what i make is private. this is the part i'm happy to show off.
 
----
+### ✦ featured
+
+<table>
+<tr>
+<td>
+
+**[🐧 dotfiles](https://github.com/MagGoTzYT/dotfiles)**
+
+my whole arch gaming and terminal setup.
+alacritty, fish, fastfetch, and one command to install it all on a fresh machine.
+
+</td>
+</tr>
+</table>
+
+### ✦ currently
+
+- 🛠️ polishing my dotfiles
+- 🎮 getting more games running on linux
+- 📚 learning something new every time something breaks
+
+<br>
 
 <div align="center">
-<sub>feel free to look around my repos :D</sub>
+<sub>thanks for stopping by 🖤</sub>
 </div>
