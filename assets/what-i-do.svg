@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="What I do: desktop apps, PC repair and IT, the web, interface design">
+  <defs>
+    <linearGradient id="heat" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF8C33"/><stop offset="1" stop-color="#FFC266"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+      .tile{opacity:0;animation:in .5s ease-out forwards}
+      .d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}.d4{animation-delay:.75s}
+      @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+      @media (prefers-reduced-motion:reduce){.tile{animation:none;opacity:1}}
+    </style>
+  </defs>
+  <g transform="translate(0 0)"><g class="tile d1">
+    <rect x=".5" y=".5" width="285" height="249" rx="16" fill="#141518" stroke="#2A2D33"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#1F2126"/>
+    <g transform="translate(48 48)" fill="none" stroke="url(#heat)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="-15" y="-12" width="30" height="24" rx="3"/><path d="M-15 -5h30"/><circle cx="-10.5" cy="-8.5" r=".9" fill="#FF8C33"/><circle cx="-7" cy="-8.5" r=".9" fill="#FF8C33"/><path d="M-8 2l4 3-4 3M1 8h7"/></g>
+    <text class="t" x="24" y="116" font-size="22" font-weight="600" fill="#F3F3F3">Desktop apps</text>
+    <text class="t" x="24" y="148" font-size="16" fill="#A9AEB6">Native Windows apps in Rust:</text>
+    <text class="t" x="24" y="172" font-size="16" fill="#A9AEB6">fast, small, and built to</text>
+    <text class="t" x="24" y="196" font-size="16" fill="#A9AEB6">be easy to use.</text>
+  </g></g>
+  <g transform="translate(305 0)"><g class="tile d2">
+    <rect x=".5" y=".5" width="285" height="249" rx="16" fill="#141518" stroke="#2A2D33"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#1F2126"/>
+    <g transform="translate(48 48)" fill="none" stroke="url(#heat)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 -13a7 7 0 0 0-8.3 9.4L-12 8.6a2.6 2.6 0 0 0 3.7 3.7L3.9 0.1A7 7 0 0 0 13.3 -8.2l-4.4 4.4-4.2-.9-.9-4.2z"/></g>
+    <text class="t" x="24" y="116" font-size="22" font-weight="600" fill="#F3F3F3">PC repair &amp; IT</text>
+    <text class="t" x="24" y="148" font-size="16" fill="#A9AEB6">Diagnosing hardware and</text>
+    <text class="t" x="24" y="172" font-size="16" fill="#A9AEB6">fixing Windows properly,</text>
+    <text class="t" x="24" y="196" font-size="16" fill="#A9AEB6">not just rebooting it.</text>
+  </g></g>
+  <g transform="translate(610 0)"><g class="tile d3">
+    <rect x=".5" y=".5" width="285" height="249" rx="16" fill="#141518" stroke="#2A2D33"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#1F2126"/>
+    <g transform="translate(48 48)" fill="none" stroke="url(#heat)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle r="13"/><path d="M-13 0h26M0 -13c-4.5 4-4.5 22 0 26M0 -13c4.5 4 4.5 22 0 26"/></g>
+    <text class="t" x="24" y="116" font-size="22" font-weight="600" fill="#F3F3F3">The web</text>
+    <text class="t" x="24" y="148" font-size="16" fill="#A9AEB6">Clean, quick websites</text>
+    <text class="t" x="24" y="172" font-size="16" fill="#A9AEB6">that load instantly and</text>
+    <text class="t" x="24" y="196" font-size="16" fill="#A9AEB6">work on every screen.</text>
+  </g></g>
+  <g transform="translate(915 0)"><g class="tile d4">
+    <rect x=".5" y=".5" width="284" height="249" rx="16" fill="#141518" stroke="#2A2D33"/>
+    <rect x="24" y="24" width="48" height="48" rx="12" fill="#1F2126"/>
+    <g transform="translate(48 48)" fill="none" stroke="url(#heat)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-12 12l3-9L6 -12l6 6L3 9z"/><path d="M-9 3l6 6M3 -9l6 6"/></g>
+    <text class="t" x="24" y="116" font-size="22" font-weight="600" fill="#F3F3F3">Interface design</text>
+    <text class="t" x="24" y="148" font-size="16" fill="#A9AEB6">Software that looks right,</text>
+    <text class="t" x="24" y="172" font-size="16" fill="#A9AEB6">feels familiar and gets</text>
+    <text class="t" x="24" y="196" font-size="16" fill="#A9AEB6">out of your way.</text>
+  </g></g>
+</svg>
